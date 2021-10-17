@@ -27,4 +27,5 @@ Here is an example directory of the majority of plugins currently supported by A
     ├── terminal
     ├── test
     └── vars
-    ```
+    
+```
